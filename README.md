@@ -1,6 +1,6 @@
 # FishStore
 A e-commerce application, used to register and login user, create, update, delete, product. Order products, get an order history.Search and paginate products.
-Built with React, Python, Django and PostgreSQL. 
+Built with React, Python, Django and PostgreSQL. Deployed on Heroku. https://fishstore.herokuapp.com/
 
 ## Technologies
 
